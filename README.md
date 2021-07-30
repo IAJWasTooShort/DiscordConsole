@@ -2,7 +2,7 @@
 
 To open the discord console press Ctrl + Shift+ I and make sure you are in the console tab
 
-[Console](https://raw.githubusercontent.com/IAJWasTooShort/DiscordConsole/main/screenshots/console.png)
+![Console](https://raw.githubusercontent.com/IAJWasTooShort/DiscordConsole/main/screenshots/console.png)
 
 ## getCurrentUser()
 
