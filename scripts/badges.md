@@ -1,6 +1,8 @@
 # Bages
 This script allows you to get badges (client side only)
 
+![Badge](https://raw.githubusercontent.com/IAJWasTooShort/DiscordConsole/main/screenshots/badge.png)
+
 ```js
 Object.values(webpackJsonp.push([
     [], {
